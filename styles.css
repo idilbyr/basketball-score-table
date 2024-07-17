@@ -1,3 +1,7 @@
+@font-face {
+    font-family: digital;
+    src: url("digital-7.ttf");
+}
 body{
     background:#183a37;
     color:#efd6ac;
@@ -41,6 +45,7 @@ body{
 }
 
 .score{
+    font-family:digital;
     padding:20px;
     background: #c44900;
     margin-bottom:5px;
